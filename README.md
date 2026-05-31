@@ -5,9 +5,8 @@ A **production-style Machine Learning web app** built with **Streamlit**, which 
 ---
 
 ## 🚀 Live Demo
-> *(Add your Streamlit Cloud / HuggingFace / Render link here)*  
-Example:  
-https://your-app-link.streamlit.app
+
+[https://your-app-link.streamlit.app](https://ml-project-credit-risk-modeling-app.streamlit.app/)
 
 ---
 
