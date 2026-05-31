@@ -99,8 +99,6 @@ health-insurance-cost-predictor/
 ├── requirements.txt # Dependencies
 └── README.md
 
-
-
 ---
 
 ## 🧪 How to Run Locally
@@ -117,14 +115,6 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run main.py
-
-
-📦 Requirements
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
 
 
 ## 📦 Requirements
