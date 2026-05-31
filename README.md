@@ -6,7 +6,7 @@ A **production-style Machine Learning web app** built with **Streamlit**, which 
 
 ## 🚀 Live Demo
 
-[https://your-app-link.streamlit.app](https://ml-project-credit-risk-modeling-app.streamlit.app/)
+[](https://ml-project-credit-risk-modeling-app.streamlit.app/)
 
 ---
 
